@@ -9,6 +9,7 @@ package com.example.haitao.familyaccountkeeping;
  */
 
 public class Account {
+
     private String name;
     private int imageId;
     public Account(String name, int imageId){
