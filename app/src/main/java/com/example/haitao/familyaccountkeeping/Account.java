@@ -7,9 +7,10 @@ package com.example.haitao.familyaccountkeeping;
 /**
  * Created by haitao on 2019/11/9.
  */
-
+/*
+这是一个bean
+ */
 public class Account {
-
     private String name;
     private int imageId;
     public Account(String name, int imageId){
