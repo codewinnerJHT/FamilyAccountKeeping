@@ -8,7 +8,7 @@ package com.example.haitao.familyaccountkeeping;
  * Created by haitao on 2019/11/9.
  */
 /*
-这是一个bean
+这是一个测试
  */
 public class Account {
     private String name;
